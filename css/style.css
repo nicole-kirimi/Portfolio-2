@@ -13,3 +13,11 @@
 .random{
     text-decoration-color: brown;
 }
+
+.center{
+    text-align: center;
+}
+
+.move{
+    text-indent: 130px;
+}
