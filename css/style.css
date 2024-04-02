@@ -21,3 +21,13 @@
 .move{
     text-indent: 130px;
 }
+
+.font {
+    font-style: italic;
+}
+.header{
+    font-style: italic;
+    text-align: center;
+    color: blueviolet;
+    
+}
